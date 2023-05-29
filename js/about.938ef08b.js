@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_four"]=self["webpackChunkvue_four"]||[]).push([[443],{9286:function(u,t,n){n.r(t),n.d(t,{default:function(){return c}});var e=n(5747),a=function(){var u=this,t=u._self._c;return t("div",{staticClass:"about"},[t("h1",[u._v("This is an about page")]),t(e.Z,{attrs:{link:"",to:"./"}},[u._v("Return Home")]),t("div",[u._v("Verifying that app can pick up updates")])],1)},s=[],i=n(1001),r={},l=(0,i.Z)(r,a,s,!1,null,null,null),c=l.exports}}]);
+//# sourceMappingURL=about.938ef08b.js.map
